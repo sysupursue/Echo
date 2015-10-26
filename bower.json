@@ -1,0 +1,25 @@
+{
+  "name": "Echo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sysupursue/Echo",
+  "authors": [
+    "panbinbin"
+  ],
+  "description": "Echo created by React.js and underscore.js",
+  "keywords": [
+    "echo",
+    "react",
+    "underscore"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.0"
+  }
+}

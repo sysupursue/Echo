@@ -1,0 +1,13 @@
+extends ../layout
+block stylesheet
+    link(rel="stylesheet", href="/frontend/index.css")
+    link(rel="stylesheet", href="/frontend/header.css")
+block scripts
+    script(src='/react.min.js')
+block content
+    #page-top
+    #example
+    script(text="text/jsx",src="/frontend/javascripts/build/voice.js")
+    script(text="text/jsx",src="/frontend/javascripts/build/header.js")
+
+    
